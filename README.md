@@ -62,14 +62,11 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![githublogo](robo.png)
-![githublogo](robo2.png)
+![githublogo](robo.jpeg)
+![githublogo](robo2.jpeg)
 
 ## MobileRobot Movement Video:
-
-Upload your video in Youtube and paste your video-id here
-
-![githublogo](
+https://youtu.be/0LmEiDSd3QE
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
