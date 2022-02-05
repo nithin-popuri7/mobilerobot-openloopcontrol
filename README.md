@@ -63,14 +63,7 @@ if __name__ == '__main__':
 ## MobileRobot Movement Image:
 
 ![githublogo](robo.png)
-
-Insert image here
-
-
-<br/>
-<br/>
-<br/>
-<br/>
+![githublogo](robo2.png)
 
 ## MobileRobot Movement Video:
 
